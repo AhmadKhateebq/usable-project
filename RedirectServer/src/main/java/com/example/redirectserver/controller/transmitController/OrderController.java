@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/category")
+@RequestMapping("/api/order")
 public class OrderController {
     @Autowired
     Client client;
